@@ -2,7 +2,6 @@
   "buildCommand": "npm ci && npm run build",
   "outputDirectory": "dist",
   "installCommand": "npm ci",
-  "nodeVersion": "18.x",
   "env": {
     "CI": "true",
     "NODE_OPTIONS": "--max-old-space-size=3072"
